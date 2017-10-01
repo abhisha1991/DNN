@@ -49,4 +49,4 @@ Simply run main.py
 
 ## Credits
 A big thank you to Coursera/Deeplearning.ai for putting a set of 5 courses together for enhancing my knowledge on deep learning. I am a big fan of Andrew Ng's simplistic teaching style and I can honestly say, he's shaped a lot of my understanding of these topics! 
-Note - Some of the util code in the above code is provided by them.
+Note - Some of the util code in the above code is provided by them. All images above are from their tutorials.
